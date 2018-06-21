@@ -1,4 +1,4 @@
-#Future blog on Django. 
+# Future blog on Django. 
 
 Do not exist in the repository: 
 
